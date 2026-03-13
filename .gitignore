@@ -1,0 +1,17 @@
+# SQLite database files
+data/*.db
+data/*.db-shm
+data/*.db-wal
+dit
+
+# Build output
+**/bin/
+**/obj/
+bin/
+obj/ 
+
+# Appsettings
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
